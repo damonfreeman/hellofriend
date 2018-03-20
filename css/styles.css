@@ -1,0 +1,10 @@
+#wrapper {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  background-color: lightpink;
+  text-align: center;
+}
+h1 {
+  padding: 10%;
+}
